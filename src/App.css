@@ -3,11 +3,24 @@
 }
 
 .divdayz {
-    width: 130px; height: 70px;
+    width: 160px; 
+	height: 40px;
     display: inline-block;
-    margin-right: 50px;
+
    }
 
+
+.center {
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    background: #fc0;
+   }
+
+.center2 {
+    width: 200px;
+    margin: auto;
+   }  
 
 .App-logo {
   height: 40vmin;
